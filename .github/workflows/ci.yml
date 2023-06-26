@@ -41,6 +41,6 @@ jobs:
         file: Dockerfile
         push: true
         tags: |
-          msevcik/microfrontends-webcomponent-webapi-sample:1.0.0-${{ github.run_number }}
-          msevcik/microfrontends-webcomponent-webapi-sample:latest
-          msevcik/microfrontends-webcomponent-webapi-sample:dev-latest
+          sevcikmichal/microfrontends-webcomponent-webapi-sample:1.0.0-${{ github.run_number }}
+          sevcikmichal/microfrontends-webcomponent-webapi-sample:latest
+          sevcikmichal/microfrontends-webcomponent-webapi-sample:dev-latest
